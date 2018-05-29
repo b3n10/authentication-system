@@ -1,4 +1,4 @@
-# Authentication System
+# Authentication System (unfinished)
 
 #### Project Description
 - Authentication system using PHP & Slim micro-framework
